@@ -1,0 +1,16 @@
+.itemStyle{
+    color: blue;
+    font-size: 20px;
+    padding-top: 1%;
+}
+
+.done{
+    padding-top: 2%;
+    margin-right: 20px;
+}
+
+body{
+    color: black;
+    text-align: center;
+    background-image: url(https://images4.alphacoders.com/897/thumb-1920-897423.jpg);
+}
